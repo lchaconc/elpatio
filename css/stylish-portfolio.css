@@ -13,6 +13,17 @@ body {
   font-family: 'Source Sans Pro';
 }
 
+.container-titulo {
+	background-color:rgba(0,255,0,0.5);
+	padding: 0.5em;
+	margin-bottom: 0.5em;
+	border-radius: 5px;
+}
+
+#btnDescubre {
+	background-color: #00b300 !important;
+}
+
 .btn-xl {
   padding: 1.25rem 2.5rem;
 }
